@@ -1,4 +1,4 @@
-# PAMA-beta *-* a robot try to walk
+# PAMA-beta /*-/* a robot try to walk
 Prototype of Auto MAchine This is a prototype of autonomous machine built to test and verify the platform, designing, planning, making, debugging process. 
 Currently, we have got the PAMA some basic excercise motion and interact function. Like standing, up-down squat. 
 We hope it be a robot able to walk as human, go up-down stairs in real environment in the future. 
